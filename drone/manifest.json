@@ -1,0 +1,17 @@
+{
+  "main.ComLink": {
+    "custom_mobile_assets": {
+      "my_id_1": "",
+      "my_id_2": ""
+    },
+    "display_name": "ComLink",
+    "explanation": "Send commands to drone",
+    "hint": "Send commands to drone",
+    "mobile_assets": {
+      "icon_normal": "",
+      "icon_selected": "",
+      "instructional": ""
+    },
+    "short_name": "ComLink"
+  }
+}
